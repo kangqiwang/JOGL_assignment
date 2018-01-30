@@ -10,6 +10,7 @@
 ![alt text](https://github.com/kangqiwang/JOGL_assignment/blob/master/task1.png)
 
 ## Modelling and Lighting
+build a 3D polygonal model, and render a scene including more than one object with different material properties
 ![alt text](https://github.com/kangqiwang/JOGL_assignment/blob/master/task2.png)
 
 ## Image Processing 
