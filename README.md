@@ -1,5 +1,5 @@
 # JOGL_assignment
-
+it implements interactive transformations, modelling and lighting image processing and texture mapping using JOGL
 ## Interactive Transformations
 - pressing the key ‘M’, the object should expand; (this function has already been implemented)
 - on pressing the key ‘N’, the object should shrink;
